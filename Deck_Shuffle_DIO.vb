@@ -1,4 +1,9 @@
-﻿Module Deck_Shuffle_DIO
+﻿'D. Ivan Ochoa
+'RCET0265
+'Fall 2020
+'Deck_shuffle
+'https://github.com/ochodieg/Deck_Shuffle_DIO
+Module Deck_Shuffle_DIO
 
     Sub Main()
 
