@@ -61,21 +61,22 @@ Type shift + Q to quit. ")
 
             card_Number = CStr(Row1 + 1)
 
-            If card_Number = "11" Then
+            If card_Number = "13" Then
 
                 card_Type = "Jack"
 
-            ElseIf card_Number = "1" Then
+            ElseIf card_Number = "11" Then
 
                 card_Type = "Ace"
 
             ElseIf card_Number = "12" Then
 
+                card_Type = "Queen"
+
+            ElseIf card_Number = "1" Then
+
                 card_Type = "King"
 
-            ElseIf card_Number = "13" Then
-
-                card_Type = "Queen"
 
 
 
